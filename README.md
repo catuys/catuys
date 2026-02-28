@@ -1,26 +1,3 @@
-<p align="right">
-  <a href="#korean-version">🇰🇷 한국어</a> | 
-  <a href="#english-version">🇺🇸 English</a>
-</p>
-
-<div id="korean-version">
-
-# 🎨 안녕하세요, [이름]입니다!
-마인크래프트 모델러이자 디자인 전공생입니다...
-(한국어 내용 채우기)
-
-</div>
-
----
-
-<div id="english-version">
-
-# 🎨 Hi, I'm [Name]!
-I'm a Minecraft Modeler and Design Student...
-(영어 내용 채우기)
-
-</div>
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Designer%20&%20Publisher&fontSize=70)
 
 # 👋 Hello, I'm [본인 이름]
