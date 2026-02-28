@@ -1,24 +1,65 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Designer%20&%20Publisher&fontSize=70)
+<p align="right">
+  <a href="#korean-version">🇰🇷 한국어</a> | 
+  <a href="#english-version">🇺🇸 English</a>
+</p>
 
-# 👋 Hello, I'm [본인 이름]
-> **"사용자의 경험을 디자인하고 코드로 구현하는 웹디자이너입니다."**
+<div id="korean-version">
 
----
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Designer%20&%20Modeler&fontSize=60)
 
-### 🎨 My Design Tools & Skills
+# 👋 안녕하세요, [본인 이름]입니다!
+> **"디자인 전공 지식을 바탕으로 가상 세계를 정교하게 빚어내는 마인크래프트 모델러입니다."**
+
+### 🎨 Design & Art Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white">
+  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white">
+  <img src="https://img.shields.io/badge/Adobe%20After%20Effects-CF96FD?style=for-the-badge&logo=adobeaftereffects&logoColor=white">
+  <img src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white">
 </p>
 
-### 🔗 Portfolio & Contact
-- 📁 **[Portfolio Website](링크주소)**
-- ✉️ **[Email](mailto:이메일주소)**
-- 🅱️ **[Behance / Dribbble](링크주소)**
+### 💻 Programming (Academic)
+- **Web:** `HTML5`, `CSS3`, `JavaScript (p5.js)`
+- **General:** `Python`, `Java (Learning now 📖)`
+
+### 🧱 Minecraft Expertise
+- **3D Modeling:** Blockbench를 활용한 정교한 개체 모델링
+- **Texturing:** 디자인 전공 역량을 살린 고퀄리티 픽셀 아트 텍스처 제작
 
 ---
 
-### 📈 Design Contributions
+</div>
+
+<div id="english-version">
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Designer%20&%20Modeler&fontSize=60&fontAlignY=40)
+
+# 👋 Hi, I'm [본인 이름]!
+> **"A Minecraft Modeler who crafts virtual worlds with a foundation in Design."**
+
+### 🎨 Design & Art Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
+  <img src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white">
+</p>
+
+### 💻 Programming (Academic)
+- **Web:** `HTML5`, `CSS3`, `JavaScript (p5.js)`
+- **General:** `Python`, `Java`
+
+### 🧱 Minecraft Expertise
+- **3D Modeling & Texturing:** Specialized in high-quality asset creation for Minecraft.
+
+---
+
+</div>
+
+### 🔗 Link & Contact
+- 📁 **[Portfolio Website](링크주소)**
+- ✉️ **[Email](mailto:[이메일주소])**
+
+### 📈 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[본인아이디]&layout=compact&theme=flat&hide_border=true)
