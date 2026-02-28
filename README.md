@@ -3,12 +3,13 @@
   <a href="#english-version">🇺🇸 English</a>
 </p>
 
-<div id="korean-version">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Designer%20&%20Modeler&fontSize=60)
+<div id="english-version">
 
-# 👋 안녕하세요, [본인 이름]입니다!
-> **"디자인 전공 지식을 바탕으로 가상 세계를 정교하게 빚어내는 마인크래프트 모델러입니다."**
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Designer%20&%20Modeler&fontSize=60&fontAlignY=40)
+
+# 👋 Hi, I'm Catuy!
+> **"A Minecraft Game Content Creator who crafts virtual worlds with a foundation in Design."**
 
 ### 🎨 Design & Art Tools
 <p align="left">
@@ -25,19 +26,28 @@
 - **General:** `Python`, `Java (Learning now 📖)`
 
 ### 🧱 Minecraft Expertise
-- **3D Modeling:** Blockbench를 활용한 정교한 개체 모델링
-- **Texturing:** 디자인 전공 역량을 살린 고퀄리티 픽셀 아트 텍스처 제작
+- **3D Modeling & Texturing:** Specialized in high-quality asset creation for Minecraft.
 
 ---
 
 </div>
 
-<div id="english-version">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Designer%20&%20Modeler&fontSize=60&fontAlignY=40)
+### 🔗 Link & Contact
+- 📁 **[Portfolio Website](링크주소)**
+- ✉️ **[Email](mailto:[catuy@naver.com])**
+- ✉️ **[Youtube](https://www.youtube.com/@CatuyPixel)**
+- ✉️ **[Sketchfeb](https://sketchfab.com/catuy)**
+- ✉️ **[Behance](https://www.behance.net/catuy)**
+- ✉️ **[Discord]()**
 
-# 👋 Hi, I'm [본인 이름]!
-> **"A Minecraft Modeler who crafts virtual worlds with a foundation in Design."**
+
+<div id="korean-version">
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Designer%20&%20Modeler&fontSize=60)
+
+# 👋 안녕하세요, 냥돌입니다!
+> **"디자인 전공 지식을 바탕으로 가상 세계를 정교하게 빚어내는 마인크래프트 모델러입니다."**
 
 ### 🎨 Design & Art Tools
 <p align="left">
@@ -51,22 +61,15 @@
 
 ### 💻 Programming (Academic)
 - **Web:** `HTML5`, `CSS3`, `JavaScript (p5.js)`
-- **General:** `Python`, `Java`
+- **General:** `Python`, `Java (배우는 중 📖)`
 
 ### 🧱 Minecraft Expertise
-- **3D Modeling & Texturing:** Specialized in high-quality asset creation for Minecraft.
+- **3D Modeling:** Blockbench를 활용한 정교한 개체 모델링
+- **Texturing:** 디자인 전공 역량을 살린 고퀄리티 픽셀 아트 텍스처 제작
 
 ---
 
 </div>
-
-### 🔗 Link & Contact
-- 📁 **[Portfolio Website](링크주소)**
-- ✉️ **[Email](mailto:[catuy@naver.com])**
-- ✉️ **[Youtube](https://www.youtube.com/@CatuyPixel)**
-- ✉️ **[Sketchfeb](https://sketchfab.com/catuy)**
-- ✉️ **[Behance](https://www.behance.net/catuy)**
-- ✉️ **[Discord]()**
 
 ### 📈 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[본인아이디]&layout=compact&theme=flat&hide_border=true)
