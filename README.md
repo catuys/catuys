@@ -43,6 +43,9 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
+  <img src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white">
+  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white">
+  <img src="https://img.shields.io/badge/Adobe%20After%20Effects-CF96FD?style=for-the-badge&logo=adobeaftereffects&logoColor=white">
   <img src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white">
 </p>
 
@@ -59,7 +62,11 @@
 
 ### 🔗 Link & Contact
 - 📁 **[Portfolio Website](링크주소)**
-- ✉️ **[Email](mailto:[이메일주소])**
+- ✉️ **[Email](mailto:[catuy@naver.com])**
+- ✉️ **[Youtube](https://www.youtube.com/@CatuyPixel)**
+- ✉️ **[Sketchfeb](https://sketchfab.com/catuy)**
+- ✉️ **[Behance](https://www.behance.net/catuy)**
+- ✉️ **[Discord]()**
 
 ### 📈 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[본인아이디]&layout=compact&theme=flat&hide_border=true)
