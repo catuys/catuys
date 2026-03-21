@@ -34,7 +34,7 @@
 
 
 ### 🔗 Link & Contact
-- 📁 **[Portfolio Website](링크주소)**
+- 📁 **[Portfolio Website](https://www.catuypixel.com)**
 - ✉️ **[Email](mailto:[catuy@naver.com])**
 - ✉️ **[Youtube](https://www.youtube.com/@CatuyPixel)**
 - ✉️ **[Sketchfeb](https://sketchfab.com/catuy)**
